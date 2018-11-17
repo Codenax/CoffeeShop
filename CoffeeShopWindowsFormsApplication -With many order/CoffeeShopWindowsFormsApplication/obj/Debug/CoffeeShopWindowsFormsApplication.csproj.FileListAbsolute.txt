@@ -1,0 +1,36 @@
+D:\Visual Studio Project\CoffeeShopWindowsFormsApplication\CoffeeShopWindowsFormsApplication\bin\Debug\CoffeeShopWindowsFormsApplication.exe.config
+D:\Visual Studio Project\CoffeeShopWindowsFormsApplication\CoffeeShopWindowsFormsApplication\bin\Debug\CoffeeShopWindowsFormsApplication.exe
+D:\Visual Studio Project\CoffeeShopWindowsFormsApplication\CoffeeShopWindowsFormsApplication\bin\Debug\CoffeeShopWindowsFormsApplication.pdb
+D:\Visual Studio Project\CoffeeShopWindowsFormsApplication\CoffeeShopWindowsFormsApplication\obj\Debug\CoffeeShopWindowsFormsApplication.csprojResolveAssemblyReference.cache
+D:\Visual Studio Project\CoffeeShopWindowsFormsApplication\CoffeeShopWindowsFormsApplication\obj\Debug\CoffeeShopWindowsFormsApplication.CoffeeShopUl.resources
+D:\Visual Studio Project\CoffeeShopWindowsFormsApplication\CoffeeShopWindowsFormsApplication\obj\Debug\CoffeeShopWindowsFormsApplication.Properties.Resources.resources
+D:\Visual Studio Project\CoffeeShopWindowsFormsApplication\CoffeeShopWindowsFormsApplication\obj\Debug\CoffeeShopWindowsFormsApplication.csproj.GenerateResource.Cache
+D:\Visual Studio Project\CoffeeShopWindowsFormsApplication\CoffeeShopWindowsFormsApplication\obj\Debug\CoffeeShopWindowsFormsApplication.exe
+D:\Visual Studio Project\CoffeeShopWindowsFormsApplication\CoffeeShopWindowsFormsApplication\obj\Debug\CoffeeShopWindowsFormsApplication.pdb
+D:\Visual Studio Project\CoffeeShopWindowsFormsApplication - Copy (4)\CoffeeShopWindowsFormsApplication\bin\Debug\CoffeeShopWindowsFormsApplication.exe.config
+D:\Visual Studio Project\CoffeeShopWindowsFormsApplication - Copy (4)\CoffeeShopWindowsFormsApplication\obj\Debug\CoffeeShopWindowsFormsApplication.exe
+D:\Visual Studio Project\CoffeeShopWindowsFormsApplication - Copy (4)\CoffeeShopWindowsFormsApplication\obj\Debug\CoffeeShopWindowsFormsApplication.pdb
+D:\Visual Studio Project\CoffeeShopWindowsFormsApplication - Copy (4)\CoffeeShopWindowsFormsApplication\bin\Debug\CoffeeShopWindowsFormsApplication.exe
+D:\Visual Studio Project\CoffeeShopWindowsFormsApplication - Copy (4)\CoffeeShopWindowsFormsApplication\bin\Debug\CoffeeShopWindowsFormsApplication.pdb
+D:\Visual Studio Project\CoffeeShopWindowsFormsApplication - Copy (4)\CoffeeShopWindowsFormsApplication\obj\Debug\CoffeeShopWindowsFormsApplication.csprojResolveAssemblyReference.cache
+D:\Visual Studio Project\CoffeeShopWindowsFormsApplication - Copy (4)\CoffeeShopWindowsFormsApplication\obj\Debug\CoffeeShopWindowsFormsApplication.CoffeeShopUl.resources
+D:\Visual Studio Project\CoffeeShopWindowsFormsApplication - Copy (4)\CoffeeShopWindowsFormsApplication\obj\Debug\CoffeeShopWindowsFormsApplication.Properties.Resources.resources
+D:\Visual Studio Project\CoffeeShopWindowsFormsApplication - Copy (4)\CoffeeShopWindowsFormsApplication\obj\Debug\CoffeeShopWindowsFormsApplication.csproj.GenerateResource.Cache
+D:\Visual Studio Project\CoffeeShopWindowsFormsApplication - Copy 2ndassinment1st - Copy\CoffeeShopWindowsFormsApplication\bin\Debug\CoffeeShopWindowsFormsApplication.exe.config
+D:\Visual Studio Project\CoffeeShopWindowsFormsApplication - Copy 2ndassinment1st - Copy\CoffeeShopWindowsFormsApplication\obj\Debug\CoffeeShopWindowsFormsApplication.exe
+D:\Visual Studio Project\CoffeeShopWindowsFormsApplication - Copy 2ndassinment1st - Copy\CoffeeShopWindowsFormsApplication\obj\Debug\CoffeeShopWindowsFormsApplication.pdb
+D:\Visual Studio Project\CoffeeShopWindowsFormsApplication - Copy 2ndassinment1st - Copy\CoffeeShopWindowsFormsApplication\bin\Debug\CoffeeShopWindowsFormsApplication.exe
+D:\Visual Studio Project\CoffeeShopWindowsFormsApplication - Copy 2ndassinment1st - Copy\CoffeeShopWindowsFormsApplication\bin\Debug\CoffeeShopWindowsFormsApplication.pdb
+D:\Visual Studio Project\CoffeeShopWindowsFormsApplication - Copy 2ndassinment1st - Copy\CoffeeShopWindowsFormsApplication\obj\Debug\CoffeeShopWindowsFormsApplication.csprojResolveAssemblyReference.cache
+D:\Visual Studio Project\CoffeeShopWindowsFormsApplication - Copy 2ndassinment1st - Copy\CoffeeShopWindowsFormsApplication\obj\Debug\CoffeeShopWindowsFormsApplication.CoffeeShopUl.resources
+D:\Visual Studio Project\CoffeeShopWindowsFormsApplication - Copy 2ndassinment1st - Copy\CoffeeShopWindowsFormsApplication\obj\Debug\CoffeeShopWindowsFormsApplication.Properties.Resources.resources
+D:\Visual Studio Project\CoffeeShopWindowsFormsApplication - Copy 2ndassinment1st - Copy\CoffeeShopWindowsFormsApplication\obj\Debug\CoffeeShopWindowsFormsApplication.csproj.GenerateResource.Cache
+D:\Visual Studio Project\MyProject\CoffeeShopWindowsFormsApplication - Copy 2ndassinment1st - Copy\CoffeeShopWindowsFormsApplication\bin\Debug\CoffeeShopWindowsFormsApplication.exe.config
+D:\Visual Studio Project\MyProject\CoffeeShopWindowsFormsApplication - Copy 2ndassinment1st - Copy\CoffeeShopWindowsFormsApplication\obj\Debug\CoffeeShopWindowsFormsApplication.exe
+D:\Visual Studio Project\MyProject\CoffeeShopWindowsFormsApplication - Copy 2ndassinment1st - Copy\CoffeeShopWindowsFormsApplication\obj\Debug\CoffeeShopWindowsFormsApplication.pdb
+D:\Visual Studio Project\MyProject\CoffeeShopWindowsFormsApplication - Copy 2ndassinment1st - Copy\CoffeeShopWindowsFormsApplication\bin\Debug\CoffeeShopWindowsFormsApplication.exe
+D:\Visual Studio Project\MyProject\CoffeeShopWindowsFormsApplication - Copy 2ndassinment1st - Copy\CoffeeShopWindowsFormsApplication\bin\Debug\CoffeeShopWindowsFormsApplication.pdb
+D:\Visual Studio Project\MyProject\CoffeeShopWindowsFormsApplication - Copy 2ndassinment1st - Copy\CoffeeShopWindowsFormsApplication\obj\Debug\CoffeeShopWindowsFormsApplication.csprojResolveAssemblyReference.cache
+D:\Visual Studio Project\MyProject\CoffeeShopWindowsFormsApplication - Copy 2ndassinment1st - Copy\CoffeeShopWindowsFormsApplication\obj\Debug\CoffeeShopWindowsFormsApplication.CoffeeShopUl.resources
+D:\Visual Studio Project\MyProject\CoffeeShopWindowsFormsApplication - Copy 2ndassinment1st - Copy\CoffeeShopWindowsFormsApplication\obj\Debug\CoffeeShopWindowsFormsApplication.Properties.Resources.resources
+D:\Visual Studio Project\MyProject\CoffeeShopWindowsFormsApplication - Copy 2ndassinment1st - Copy\CoffeeShopWindowsFormsApplication\obj\Debug\CoffeeShopWindowsFormsApplication.csproj.GenerateResource.Cache
